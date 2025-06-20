@@ -1412,6 +1412,129 @@
             ]
         },
         {
+            "name": "Azurelight",
+            "key": "azurelight",
+            "description": "This blade was once pure and pristine as a white dawn star, but it has since been tinted a deep, dark blue.",
+            "rarity": 5,
+            "category": "sword",
+            "series": "weapon event wishes",
+            "release_date": "june 18, 2025",
+            "release_date_epoch": 1750161600.0,
+            "base_atk_min": 48,
+            "base_atk_max": 674,
+            "sub_stat_type": "crit rate",
+            "sub_stat_value_min": "4.8%",
+            "sub_stat_value_max": "22.1%",
+            "refinement_name": "whitemountainsbounty",
+            "refinements": [
+                "Within 12s after an Elemental Skill is used, ATK is increased by **24**\n%. During this time, when the equipping character has 0 Energy, ATK will be further increased by **24**\n%, and CRIT DMG will be increased by **40**\n%.",
+                "Within 12s after an Elemental Skill is used, ATK is increased by **30**\n%. During this time, when the equipping character has 0 Energy, ATK will be further increased by **30**\n%, and CRIT DMG will be increased by **50**\n%.",
+                "Within 12s after an Elemental Skill is used, ATK is increased by **36**\n%. During this time, when the equipping character has 0 Energy, ATK will be further increased by **36**\n%, and CRIT DMG will be increased by **60**\n%.",
+                "Within 12s after an Elemental Skill is used, ATK is increased by **42**\n%. During this time, when the equipping character has 0 Energy, ATK will be further increased by **42**\n%, and CRIT DMG will be increased by **70**\n%.",
+                "Within 12s after an Elemental Skill is used, ATK is increased by **48**\n%. During this time, when the equipping character has 0 Energy, ATK will be further increased by **48**\n%, and CRIT DMG will be increased by **80**\n%."
+            ],
+            "base_stats": [
+                {
+                    "level": "1/20",
+                    "base_atk": "48",
+                    "sub_stat_type": "crit rate",
+                    "sub_stat_value": "4.8%",
+                    "ascension_phase": 0
+                },
+                {
+                    "level": "20/20",
+                    "base_atk": "133",
+                    "sub_stat_type": "crit rate",
+                    "sub_stat_value": "8.5%",
+                    "ascension_phase": 0
+                },
+                {
+                    "level": "20/40",
+                    "base_atk": "164",
+                    "sub_stat_type": "crit rate",
+                    "sub_stat_value": "8.5%",
+                    "ascension_phase": 1
+                },
+                {
+                    "level": "40/40",
+                    "base_atk": "261",
+                    "sub_stat_type": "crit rate",
+                    "sub_stat_value": "12.4%",
+                    "ascension_phase": 1
+                },
+                {
+                    "level": "40/50",
+                    "base_atk": "292",
+                    "sub_stat_type": "crit rate",
+                    "sub_stat_value": "12.4%",
+                    "ascension_phase": 2
+                },
+                {
+                    "level": "50/50",
+                    "base_atk": "341",
+                    "sub_stat_type": "crit rate",
+                    "sub_stat_value": "14.3%",
+                    "ascension_phase": 2
+                },
+                {
+                    "level": "50/60",
+                    "base_atk": "373",
+                    "sub_stat_type": "crit rate",
+                    "sub_stat_value": "14.3%",
+                    "ascension_phase": 3
+                },
+                {
+                    "level": "60/60",
+                    "base_atk": "423",
+                    "sub_stat_type": "crit rate",
+                    "sub_stat_value": "16.2%",
+                    "ascension_phase": 3
+                },
+                {
+                    "level": "60/70",
+                    "base_atk": "455",
+                    "sub_stat_type": "crit rate",
+                    "sub_stat_value": "16.2%",
+                    "ascension_phase": 4
+                },
+                {
+                    "level": "70/70",
+                    "base_atk": "506",
+                    "sub_stat_type": "crit rate",
+                    "sub_stat_value": "18.2%",
+                    "ascension_phase": 4
+                },
+                {
+                    "level": "70/80",
+                    "base_atk": "537",
+                    "sub_stat_type": "crit rate",
+                    "sub_stat_value": "18.2%",
+                    "ascension_phase": 5
+                },
+                {
+                    "level": "80/80",
+                    "base_atk": "590",
+                    "sub_stat_type": "crit rate",
+                    "sub_stat_value": "20.1%",
+                    "ascension_phase": 5
+                },
+                {
+                    "level": "80/90",
+                    "base_atk": "621",
+                    "sub_stat_type": "crit rate",
+                    "sub_stat_value": "20.1%",
+                    "ascension_phase": 6
+                },
+                {
+                    "level": "90/90",
+                    "base_atk": "674",
+                    "sub_stat_type": "crit rate",
+                    "sub_stat_value": "22.1%",
+                    "ascension_phase": 6
+                }
+            ]
+        },
+        {
             "name": "Ballad of the Boundless Blue",
             "key": "ballad-of-the-boundless-blue",
             "description": "An anthology of exquisite poetry. It contains quite a few poems beloved by Mondstadters, concerning the skies, dandelions, and other such topics.",
@@ -17008,6 +17131,129 @@
             ]
         },
         {
+            "name": "Sequence of Solitude",
+            "key": "sequence-of-solitude",
+            "description": "A mechanical longbow purpose-built for long shots and silent kills. Its twang is swallowed up amidst the night. the note lengthy and cold.",
+            "rarity": 4,
+            "category": "bow",
+            "series": "whirling waltz",
+            "release_date": "may 09, 2025",
+            "release_date_epoch": 1746705600.0,
+            "base_atk_min": 42,
+            "base_atk_max": 510,
+            "sub_stat_type": "hp",
+            "sub_stat_value_min": "9%",
+            "sub_stat_value_max": "41.3%",
+            "refinement_name": "silenttrigger",
+            "refinements": [
+                "When an attack hits an opponent, deal AoE DMG equal to **40**\n% of Max HP at the target location. This effect can be triggered once every 15s.",
+                "When an attack hits an opponent, deal AoE DMG equal to **50**\n% of Max HP at the target location. This effect can be triggered once every 15s.",
+                "When an attack hits an opponent, deal AoE DMG equal to **60**\n% of Max HP at the target location. This effect can be triggered once every 15s.",
+                "When an attack hits an opponent, deal AoE DMG equal to **70**\n% of Max HP at the target location. This effect can be triggered once every 15s.",
+                "When an attack hits an opponent, deal AoE DMG equal to **80**\n% of Max HP at the target location. This effect can be triggered once every 15s."
+            ],
+            "base_stats": [
+                {
+                    "level": "1/20",
+                    "base_atk": "42",
+                    "sub_stat_type": "hp",
+                    "sub_stat_value": "9%",
+                    "ascension_phase": 0
+                },
+                {
+                    "level": "20/20",
+                    "base_atk": "109",
+                    "sub_stat_type": "hp",
+                    "sub_stat_value": "15.9%",
+                    "ascension_phase": 0
+                },
+                {
+                    "level": "20/40",
+                    "base_atk": "135",
+                    "sub_stat_type": "hp",
+                    "sub_stat_value": "15.9%",
+                    "ascension_phase": 1
+                },
+                {
+                    "level": "40/40",
+                    "base_atk": "205",
+                    "sub_stat_type": "hp",
+                    "sub_stat_value": "23.2%",
+                    "ascension_phase": 1
+                },
+                {
+                    "level": "40/50",
+                    "base_atk": "231",
+                    "sub_stat_type": "hp",
+                    "sub_stat_value": "23.2%",
+                    "ascension_phase": 2
+                },
+                {
+                    "level": "50/50",
+                    "base_atk": "266",
+                    "sub_stat_type": "hp",
+                    "sub_stat_value": "26.8%",
+                    "ascension_phase": 2
+                },
+                {
+                    "level": "50/60",
+                    "base_atk": "292",
+                    "sub_stat_type": "hp",
+                    "sub_stat_value": "26.8%",
+                    "ascension_phase": 3
+                },
+                {
+                    "level": "60/60",
+                    "base_atk": "327",
+                    "sub_stat_type": "hp",
+                    "sub_stat_value": "30.4%",
+                    "ascension_phase": 3
+                },
+                {
+                    "level": "60/70",
+                    "base_atk": "353",
+                    "sub_stat_type": "hp",
+                    "sub_stat_value": "30.4%",
+                    "ascension_phase": 4
+                },
+                {
+                    "level": "70/70",
+                    "base_atk": "388",
+                    "sub_stat_type": "hp",
+                    "sub_stat_value": "34.1%",
+                    "ascension_phase": 4
+                },
+                {
+                    "level": "70/80",
+                    "base_atk": "414",
+                    "sub_stat_type": "hp",
+                    "sub_stat_value": "34.1%",
+                    "ascension_phase": 5
+                },
+                {
+                    "level": "80/80",
+                    "base_atk": "449",
+                    "sub_stat_type": "hp",
+                    "sub_stat_value": "37.7%",
+                    "ascension_phase": 5
+                },
+                {
+                    "level": "80/90",
+                    "base_atk": "475",
+                    "sub_stat_type": "hp",
+                    "sub_stat_value": "37.7%",
+                    "ascension_phase": 6
+                },
+                {
+                    "level": "90/90",
+                    "base_atk": "510",
+                    "sub_stat_type": "hp",
+                    "sub_stat_value": "41.3%",
+                    "ascension_phase": 6
+                }
+            ]
+        },
+        {
             "name": "Serpent Spine",
             "key": "serpent-spine",
             "description": "A rare weapon whose origin is the ancient ocean. One can hear the sound of the ageless waves as one swings it.",
@@ -20119,6 +20365,129 @@
                     "base_atk": "510",
                     "sub_stat_type": "atk",
                     "sub_stat_value": "41.3%",
+                    "ascension_phase": 6
+                }
+            ]
+        },
+        {
+            "name": "Symphonist of Scents",
+            "key": "symphonist-of-scents",
+            "description": "An elegantly built polearm, said to have been a conductor's baton wielded by a great musician to bridge tune and taste.",
+            "rarity": 5,
+            "category": "polearm",
+            "series": "weapon event wishes",
+            "release_date": "may 07, 2025",
+            "release_date_epoch": 1746532800.0,
+            "base_atk_min": 46,
+            "base_atk_max": 608,
+            "sub_stat_type": "crit dmg",
+            "sub_stat_value_min": "14.4%",
+            "sub_stat_value_max": "66.2%",
+            "refinement_name": "seasonedsymphony",
+            "refinements": [
+                "ATK is increased by **12**\n%. When the equipping character is off-field, ATK is increased by an additional **12**\n%. After initiating healing, the equipping character and the character(s) they have healed will obtain the \"Sweet Echoes\" effect, increasing their ATK by **32**\n% for 3s. This effect can be triggered even if the equipping character is off-field.",
+                "ATK is increased by **15**\n%. When the equipping character is off-field, ATK is increased by an additional **15**\n%. After initiating healing, the equipping character and the character(s) they have healed will obtain the \"Sweet Echoes\" effect, increasing their ATK by **40**\n% for 3s. This effect can be triggered even if the equipping character is off-field.",
+                "ATK is increased by **18**\n%. When the equipping character is off-field, ATK is increased by an additional **18**\n%. After initiating healing, the equipping character and the character(s) they have healed will obtain the \"Sweet Echoes\" effect, increasing their ATK by **40**\n% for 3s. This effect can be triggered even if the equipping character is off-field.",
+                "ATK is increased by **21**\n%. When the equipping character is off-field, ATK is increased by an additional **21**\n%. After initiating healing, the equipping character and the character(s) they have healed will obtain the \"Sweet Echoes\" effect, increasing their ATK by **56**\n% for 3s. This effect can be triggered even if the equipping character is off-field.",
+                "ATK is increased by **24**\n%. When the equipping character is off-field, ATK is increased by an additional **24**\n%. After initiating healing, the equipping character and the character(s) they have healed will obtain the \"Sweet Echoes\" effect, increasing their ATK by **64**\n% for 3s. This effect can be triggered even if the equipping character is off-field."
+            ],
+            "base_stats": [
+                {
+                    "level": "1/20",
+                    "base_atk": "46",
+                    "sub_stat_type": "crit dmg",
+                    "sub_stat_value": "14.4%",
+                    "ascension_phase": 0
+                },
+                {
+                    "level": "20/20",
+                    "base_atk": "122",
+                    "sub_stat_type": "crit dmg",
+                    "sub_stat_value": "25.4%",
+                    "ascension_phase": 0
+                },
+                {
+                    "level": "20/40",
+                    "base_atk": "153",
+                    "sub_stat_type": "crit dmg",
+                    "sub_stat_value": "25.4%",
+                    "ascension_phase": 1
+                },
+                {
+                    "level": "40/40",
+                    "base_atk": "235",
+                    "sub_stat_type": "crit dmg",
+                    "sub_stat_value": "37.1%",
+                    "ascension_phase": 1
+                },
+                {
+                    "level": "40/50",
+                    "base_atk": "266",
+                    "sub_stat_type": "crit dmg",
+                    "sub_stat_value": "37.1%",
+                    "ascension_phase": 2
+                },
+                {
+                    "level": "50/50",
+                    "base_atk": "308",
+                    "sub_stat_type": "crit dmg",
+                    "sub_stat_value": "42.9%",
+                    "ascension_phase": 2
+                },
+                {
+                    "level": "50/60",
+                    "base_atk": "340",
+                    "sub_stat_type": "crit dmg",
+                    "sub_stat_value": "42.9%",
+                    "ascension_phase": 3
+                },
+                {
+                    "level": "60/60",
+                    "base_atk": "382",
+                    "sub_stat_type": "crit dmg",
+                    "sub_stat_value": "48.7%",
+                    "ascension_phase": 3
+                },
+                {
+                    "level": "60/70",
+                    "base_atk": "414",
+                    "sub_stat_type": "crit dmg",
+                    "sub_stat_value": "48.7%",
+                    "ascension_phase": 4
+                },
+                {
+                    "level": "70/70",
+                    "base_atk": "457",
+                    "sub_stat_type": "crit dmg",
+                    "sub_stat_value": "54.5%",
+                    "ascension_phase": 4
+                },
+                {
+                    "level": "70/80",
+                    "base_atk": "488",
+                    "sub_stat_type": "crit dmg",
+                    "sub_stat_value": "54.5%",
+                    "ascension_phase": 5
+                },
+                {
+                    "level": "80/80",
+                    "base_atk": "532",
+                    "sub_stat_type": "crit dmg",
+                    "sub_stat_value": "60.3%",
+                    "ascension_phase": 5
+                },
+                {
+                    "level": "80/90",
+                    "base_atk": "563",
+                    "sub_stat_type": "crit dmg",
+                    "sub_stat_value": "60.3%",
+                    "ascension_phase": 6
+                },
+                {
+                    "level": "90/90",
+                    "base_atk": "608",
+                    "sub_stat_type": "crit dmg",
+                    "sub_stat_value": "66.2%",
                     "ascension_phase": 6
                 }
             ]
